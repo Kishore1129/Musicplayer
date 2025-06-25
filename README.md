@@ -52,11 +52,6 @@ Music Player/
 3. Open `index.html` in your browser.
 
 ---
-
-## Screenshots
-
-![Music Player Interface](path-to-your-screenshot.png)
-
 ---
 
 ## Future Improvements
